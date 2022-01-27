@@ -1,1 +1,1 @@
-# ubuntu-setup
+# Ubuntu Setup Notes
