@@ -2,6 +2,7 @@
 Disussion thread on Ubuntu Forum: https://ubuntuforums.org/showthread.php?t=2453631&p=14000037&highlight=#post14000037
 
 - Make sure you have packages `make` and `gcc` first
+
 ```sh
     sudo apt install make
     sudo apt install gcc

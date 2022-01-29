@@ -19,6 +19,9 @@ sudo snap install insomnia
 
 sudo snap install termius-app
 
+#Node Version Manager
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+
 sudo add-apt-repository ppa:bamboo-engine/ibus-bamboo 
 sudo apt-get update 
 sudo apt-get install ibus ibus-bamboo --install-recommends 
