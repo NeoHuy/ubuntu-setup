@@ -1,6 +1,9 @@
 # Ubuntu Setup Notes
 
 ```sh
+sudo apt install curl
+sudo apt-get install ffmpeg
+
 sudo apt-get install git -y
 
 sudo snap install docker
